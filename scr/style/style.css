@@ -1,0 +1,41 @@
+@charset "UTF-8";
+
+* {
+    margin: 0px;
+    padding: 0px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+body {
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-image: linear-gradient(to top, #7371FC, #E5D9F2);
+}
+
+main {
+    display: flex;
+    margin: 10px;
+    background-color: white;
+    border-radius: 10px;
+    overflow: hidden;
+    flex-wrap: wrap;
+}
+
+section#imagem {
+    background-image: url(../img/img2.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    background-position: center center;
+    width: 450px;
+    height: 500px;
+}
+
+.containerform {
+    display: flex;
+    width: 450px;
+    height: 500px;
+}
