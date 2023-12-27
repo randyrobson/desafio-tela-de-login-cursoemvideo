@@ -8,4 +8,4 @@ Essa é a minha versão do projeto login referente ao capítulo 26, módulo 4 do
 
 ## Proposta do desafio:
 
-Aplicar o conceito **mobile first** para uma melhor otimização e responsividade da página, assim como o uso de **formulários** e **media queries** para a criação de uma tela de login reponsiva.
+Aplicar o conceito **mobile first** para uma melhor otimização e responsividade da página, assim como o uso de **formulários** e **media queries** para a criação de uma tela de login responsiva.
